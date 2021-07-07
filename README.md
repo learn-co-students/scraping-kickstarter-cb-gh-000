@@ -5,7 +5,7 @@
 - Use Nokogiri to scrape an HTML document.
 - Use scraped data to build a nested data structure.
 
-## Overview
+## Oveirview
 
 In this lab, you'll be scraping a Kickstarter web page that lists projects
 requesting funding. The page you'll be scraping displays 20 previews of projects
